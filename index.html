@@ -14,7 +14,34 @@
     This is a placeholder for base href that will be replaced by the value of
     the `--base-href` argument provided to `flutter build`.
   -->
-  <base href="/">
+<style>
+  @media screen and (orientation: portrait) {
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      background-color: #f0f0f0;
+    }
+
+    #flutter_container {
+      display: none;
+    }
+
+    .rotate-message {
+      display: block;
+      font-size: 24px;
+      text-align: center;
+    }
+  }
+
+  @media screen and (orientation: landscape) {
+    .rotate-message {
+      display: none;
+    }
+  }
+</style>
+
 
   <meta charset="UTF-8">
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
@@ -34,5 +61,9 @@
 </head>
 <body>
   <script src="flutter_bootstrap.js" async></script>
+  <div class="rotate-message">
+  Por favor, gire seu dispositivo para modo paisagem.
+</div>
+
 </body>
 </html>
