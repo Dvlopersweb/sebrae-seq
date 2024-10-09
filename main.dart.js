@@ -87235,7 +87235,7 @@ s.a_(new A.amh(s))
 r=s.c
 r.toString
 A.Gf(!1,new A.ami(s),r,t.z)},
-a27(a,b){var s=this,r=null,q=B.d.q(window.navigator.userAgent.toLowerCase(),"iphone")||B.d.q(window.navigator.userAgent.toLowerCase(),"ipad")||B.d.q(window.navigator.userAgent.toLowerCase(),"android")||B.d.q(window.navigator.userAgent.toLowerCase(),"mobile"),p=a.at
+a27(a,b){var s=this,r=null,q=B.d.q(window.navigator.userAgent.toLowerCase(),"iphone")||B.d.q(window.navigator.userAgent.toLowerCase(),"ipad"),p=a.at
 if(q){q=A.cU(p,r,B.o,r,r,new A.cK(r,A.axU(p,B.mr,b?s.e[B.b.fn(s.d,a)].c:a.c),r,r,r,r,r,B.af),r,r,r,r,r,r,r,r)
 p=s.ch
 p===$&&A.a()
