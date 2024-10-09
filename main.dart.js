@@ -90309,14 +90309,14 @@ case 5:return A.z(null,r)
 case 1:return A.y(p,r)}})
 return A.A($async$wL,r)},
 M(a){var s,r,q,p,o,n,m=null,l=t.w
-if(A.b8(a,m,l).w.gjl(0)===B.eO)return B.Rc
+if(A.b8(a,m,l).w.gjl(0)===B.eO)return B.Rb
 s=A.b8(a,m,l).w.a
 r=s.b
 q=s.a
 p=A.agT(B.fo,B.ax,A.b([A.lK(B.ax,B.of,new A.ajH(a),B.b3),A.lK(B.ax,B.jL,new A.ajI(new A.ajK()),B.b3)],t.TS),B.dF,B.cf,B.ax,0,12,12)
 o=A.b8(a,m,l).w
 n=this.d
-return A.Bp(B.i,A.oN(A.b([new A.bM(B.jB,A.eM(A.cS(B.z,A.d_("Lista de Aluno Registrados",m,m,m,A.cH(m,m,m,m,m,m,m,m,m,m,m,A.b8(a,m,l).w.a.b/46,m,m,m,m,m,!0,m,m,m,m,m,m,m,m),m,m),B.o,m,m,m,m,o.a.b*0.05,m,m,m,m,m,1/0),m,m),m),A.eZ(m,r*0.03,m),A.eM(A.cS(m,new A.C9(new A.ajJ(this,s),A.ayp(n,n.gDz().nu("alunos")).Zj(),m,t.Lq),B.o,m,m,B.C_,m,r*0.8,m,m,m,m,m,q/1.3),m,m)],t.p),B.bz,B.aY,B.eI),new A.bM(new A.at(0,r/20,q/20,0),new A.dr(B.d4,m,m,p,m),m),m)}}
+return A.Bp(B.i,A.oN(A.b([new A.bM(B.jB,A.eM(A.cS(B.z,A.d_("Lista de Aluno Registrados",m,m,m,A.cH(m,m,m,m,m,m,m,m,m,m,m,A.b8(a,m,l).w.a.a/72,m,m,m,m,m,!0,m,m,m,m,m,m,m,m),m,m),B.o,m,m,m,m,o.a.b*0.05,m,m,m,m,m,1/0),m,m),m),A.eZ(m,r*0.03,m),A.eM(A.cS(m,new A.C9(new A.ajJ(this,s),A.ayp(n,n.gDz().nu("alunos")).Zj(),m,t.Lq),B.o,m,m,B.C_,m,r*0.8,m,m,m,m,m,q/1.3),m,m)],t.p),B.bz,B.aY,B.eI),new A.bM(new A.at(0,r/20,q/20,0),new A.dr(B.d4,m,m,p,m),m),m)}}
 A.ajK.prototype={
 $0(){var s=document
 if(s.fullscreenElement!=null)s.webkitExitFullscreen()
@@ -90358,7 +90358,7 @@ o.toString
 t.a.a(o)
 s=A.rp(10)
 r=t.w
-return new A.bM(B.Gf,A.cS(q,new A.Lq(A.d_(o.h(0,"nome"),q,q,q,A.cH(q,q,B.i,q,q,q,q,q,q,q,q,A.b8(a,q,r).w.a.b/60,q,q,q,q,q,!0,q,q,q,q,q,q,q,q),q,q),A.d_(o.h(0,"escola"),q,q,q,A.cH(q,q,B.Lt,q,q,q,q,q,q,q,q,A.b8(a,q,r).w.a.b/80,q,q,q,q,q,!0,q,q,q,q,q,q,q,q),q,q),A.aCg(q,A.ax9(B.GL,B.i,q,this.c.b/50),q,new A.ajC(this.a,a,p,b),q),q),B.o,q,q,new A.d2(B.Lr,q,q,s,q,q,q,B.aj),q,q,q,q,q,q,q,q),q)},
+return new A.bM(B.Gf,A.cS(q,new A.Lq(A.d_(o.h(0,"nome"),q,q,q,A.cH(q,q,B.i,q,q,q,q,q,q,q,q,A.b8(a,q,r).w.a.a/90,q,q,q,q,q,!0,q,q,q,q,q,q,q,q),q,q),A.d_(o.h(0,"escola"),q,q,q,A.cH(q,q,B.Lt,q,q,q,q,q,q,q,q,A.b8(a,q,r).w.a.a/110,q,q,q,q,q,!0,q,q,q,q,q,q,q,q),q,q),A.aCg(q,A.ax9(B.GL,B.i,q,this.c.a/72),q,new A.ajC(this.a,a,p,b),q),q),B.o,q,q,new A.d2(B.Lr,q,q,s,q,q,q,B.aj),q,q,q,q,q,q,q,q),q)},
 $S:543}
 A.ajC.prototype={
 $0(){var s=0,r=A.B(t.H),q=this
@@ -90373,7 +90373,7 @@ case 5:case 3:return A.z(null,r)}})
 return A.A($async$$0,r)},
 $S:13}
 A.ajB.prototype={
-$1(a){return A.wO(A.b([A.lM(B.ie,new A.ajz(a),null),A.lM(B.YY,new A.ajA(a),null)],t.p),B.YU,B.Z_)},
+$1(a){return A.wO(A.b([A.lM(B.ie,new A.ajz(a),null),A.lM(B.YX,new A.ajA(a),null)],t.p),B.YT,B.YZ)},
 $S:47}
 A.ajz.prototype={
 $0(){return A.eV(this.a,!1).vf(!1)},
@@ -90417,16 +90417,16 @@ r===$&&A.a()
 r=A.jP(new A.nZ(r,b),!0,b)
 q=s.a
 p=s.b
-o=A.hh(b,A.d_("PULAR >>",b,b,b,A.cH(b,b,b,b,b,b,b,b,b,b,b,A.b8(a0,b,a).w.a.b/48,b,b,b,b,b,!0,b,b,b,b,b,b,b,b),b,b),B.a7,!1,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,new A.ath(a0),b,b,b,b,b,b)
+o=A.hh(b,A.d_("PULAR >>",b,b,b,A.cH(b,b,b,b,b,b,b,b,b,b,b,A.b8(a0,b,a).w.a.a/80,b,b,b,b,b,!0,b,b,b,b,b,b,b,b),b,b),B.a7,!1,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,new A.ath(a0),b,b,b,b,b,b)
 n=q/4
 m=p/3
 l=q/2
 k=p/10
-j=p/48
+j=q/90
 i=A.cH(b,b,B.m,b,b,b,b,b,b,b,b,j,b,b,b,b,b,!0,b,b,b,b,b,b,b,b)
 h=c.x
 if(h.length===0)h=b
-g=p/60
+g=q/110
 i=A.eZ(A.Pk(!0,new A.ati(s),c.f,A.axg(b,B.vw,b,b,b,b,b,b,!0,b,b,b,b,A.cH(b,b,B.m,b,b,b,b,b,b,b,b,g,b,b,b,b,b,!0,b,b,b,b,b,b,b,b),h,b,b,b,b,b,b,b,b,b,b,b,b,b,b,A.cH(b,b,B.m,b,b,b,b,b,b,b,b,j,b,b,b,b,b,!0,b,b,b,b,b,b,b,b),"Nome do Aluno",b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b),40,!1,new A.atj(c),!0,!0,i),k,l)
 h=p/100
 f=A.cH(b,b,B.m,b,b,b,b,b,b,b,b,j,b,b,b,b,b,!0,b,b,b,b,b,b,b,b)
@@ -90516,7 +90516,7 @@ s.x=""},
 $S:0}
 A.ati.prototype={
 $4$currentLength$isFocused$maxLength(a,b,c,d){var s=null
-return A.d_(""+b+"/"+A.j(d),s,s,s,A.cH(s,s,B.m,s,s,s,s,s,s,s,s,this.a.b/60,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s)},
+return A.d_(""+b+"/"+A.j(d),s,s,s,A.cH(s,s,B.m,s,s,s,s,s,s,s,s,this.a.a/110,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s)},
 $S:194}
 A.atl.prototype={
 $0(){var s=this.a
@@ -90529,7 +90529,7 @@ s.y=""},
 $S:0}
 A.atk.prototype={
 $4$currentLength$isFocused$maxLength(a,b,c,d){var s=null
-return A.d_(""+b+"/"+A.j(d),s,s,s,A.cH(s,s,B.m,s,s,s,s,s,s,s,s,this.a.b/60,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s)},
+return A.d_(""+b+"/"+A.j(d),s,s,s,A.cH(s,s,B.m,s,s,s,s,s,s,s,s,this.a.a/110,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s)},
 $S:194}
 A.atm.prototype={
 $0(){A.jY(this.a,A.k1(new A.at9(),B.bq,new A.ata(),t.z),new A.atb())},
@@ -90634,7 +90634,7 @@ s===$&&A.a()
 s.l()
 this.aJ()},
 M(a){var s,r,q=null,p=t.w
-if(A.b8(a,q,p).w.gjl(0)===B.eO)return B.Rb
+if(A.b8(a,q,p).w.gjl(0)===B.eO)return B.Rc
 s=this.d
 s===$&&A.a()
 s=A.jP(new A.nZ(s,q),!0,q)
@@ -90866,18 +90866,18 @@ e=A.jP(new A.nZ(e,f),!0,f)
 r=s.b
 q=r*0.05
 p=g.at
-o=r/44
-p=p<=15?A.d_("Est\xe1gio: "+p,f,f,f,A.cH(f,f,f,f,f,f,f,f,f,f,f,o,f,f,B.bA,f,f,!0,f,f,f,f,f,f,f,f),f,f):A.d_("Fim de Jogo",f,f,f,A.cH(f,f,f,f,f,f,f,f,f,f,f,o,f,f,B.bA,f,f,!0,f,f,f,f,f,f,f,f),f,f)
-o=g.y
-n=o?"MEMORIZE A SEQU\xcaNCIA":"SUA VEZ!"
-m=r/32
-n=A.d_(n,f,f,f,o?A.cH(f,f,B.DE,f,f,f,f,f,f,f,f,m,f,f,B.bA,f,f,!0,f,f,f,f,f,B.ow,f,f):A.cH(f,f,B.Er,f,f,f,f,f,f,f,f,m,f,f,B.bA,f,f,!0,f,f,f,f,f,B.ow,f,f),f,f)
-m=s.a
-l=J.L7(6,t.l7)
-for(o=g.d,k=g.f,j=0;j<6;++j){i=o[j]
+o=s.a
+n=o/72
+p=p<=15?A.d_("Est\xe1gio: "+p,f,f,f,A.cH(f,f,f,f,f,f,f,f,f,f,f,n,f,f,B.bA,f,f,!0,f,f,f,f,f,f,f,f),f,f):A.d_("Fim de Jogo",f,f,f,A.cH(f,f,f,f,f,f,f,f,f,f,f,n,f,f,B.bA,f,f,!0,f,f,f,f,f,f,f,f),f,f)
+n=g.y
+m=n?"MEMORIZE A SEQU\xcaNCIA":"SUA VEZ!"
+l=o/64
+m=A.d_(m,f,f,f,n?A.cH(f,f,B.DE,f,f,f,f,f,f,f,f,l,f,f,B.bA,f,f,!0,f,f,f,f,f,B.ow,f,f):A.cH(f,f,B.Er,f,f,f,f,f,f,f,f,l,f,f,B.bA,f,f,!0,f,f,f,f,f,B.ow,f,f),f,f)
+k=J.L7(6,t.l7)
+for(n=g.d,l=g.f,j=0;j<6;++j){i=n[j]
 if(g.y){h=g.w
-h=h!==-1&&k[h].n0(0,i)}else h=!1
-l[j]=g.a3K(i,h||g.x===j)}return A.Bp(B.ne,A.eM(A.j7(B.z,A.b([e,new A.bM(new A.at(0,0,0,q),new A.dr(B.mc,f,f,p,f),f),new A.bM(new A.at(0,q,0,0),new A.dr(B.Bg,f,f,n,f),f),A.eM(A.eZ(A.ax4(1.1,l,3,0,0,B.uY,!0),f,m/2),f,f),new A.bM(new A.at(0,r/16,m/10,0),new A.dr(B.d4,f,f,A.agT(B.fo,B.ax,A.b([A.lK(B.ax,B.GQ,new A.apf(a),B.b3),A.lK(B.ax,B.GR,new A.apg(g,a),B.b3),A.lK(B.ax,B.GS,new A.aph(new A.api()),B.b3)],t.TS),B.dF,B.i,B.ax,0,12,12),f),f)],t.p),B.Y,B.c2),f,f),f,f)},
+h=h!==-1&&l[h].n0(0,i)}else h=!1
+k[j]=g.a3K(i,h||g.x===j)}return A.Bp(B.ne,A.eM(A.j7(B.z,A.b([e,new A.bM(new A.at(0,0,0,q),new A.dr(B.mc,f,f,p,f),f),new A.bM(new A.at(0,q,0,0),new A.dr(B.Bg,f,f,m,f),f),A.eM(A.eZ(A.ax4(1.1,k,3,0,0,B.uY,!0),f,o/2),f,f),new A.bM(new A.at(0,r/16,o/10,0),new A.dr(B.d4,f,f,A.agT(B.fo,B.ax,A.b([A.lK(B.ax,B.GQ,new A.apf(a),B.b3),A.lK(B.ax,B.GR,new A.apg(g,a),B.b3),A.lK(B.ax,B.GS,new A.aph(new A.api()),B.b3)],t.TS),B.dF,B.i,B.ax,0,12,12),f),f)],t.p),B.Y,B.c2),f,f),f,f)},
 aaL(a){A.Hs(!0,new A.apa(new A.nP(B.dH,$.az())),a,t.z)}}
 A.apl.prototype={
 $0(){var s=this.a
@@ -90927,23 +90927,23 @@ s.x=-1
 s.r.push(this.b)},
 $S:0}
 A.aoX.prototype={
-$0(){this.a.Q="Que pena, n\xe3o foi dessa vez!"},
+$0(){this.a.Q="Que pena, quem sabe um pouco mais de aten\xe7\xe3o na pr\xf3xima vez?"},
 $S:0}
 A.aoY.prototype={
-$0(){this.a.Q="N\xe3o deu, mas ser\xe1 melhor na pr\xf3xima!"},
+$0(){this.a.Q="Nada mal, mas voc\xea precisa praticar melhor a sua mem\xf3ria!"},
 $S:0}
 A.aoZ.prototype={
-$0(){this.a.Q="Foi por pouco, por que n\xe3o tenta de novo?!"},
+$0(){this.a.Q="Mandou bem! s\xf3 mais um pouco para atingir sua capacidade m\xe1xima!"},
 $S:0}
 A.ap_.prototype={
-$0(){this.a.Q="Parab\xe9ns, voc\xea mandou muito bem!"},
+$0(){this.a.Q="Parab\xe9ns, voc\xea esta com a mente afiada!"},
 $S:0}
 A.ap0.prototype={
 $0(){this.a.z=!0},
 $S:0}
 A.ap1.prototype={
-$1(a){var s=null,r=this.a,q=r.at,p=q<16,o=p?B.YW:B.AB,n=r.Q
-q=p?A.d_("Voc\xea errou a sequ\xeancia no est\xe1gio: "+q+"! \n"+n,s,s,s,s,s,s):A.d_("Voc\xea finalizou o jogo \n"+n,s,s,s,s,s,s)
+$1(a){var s=null,r=this.a,q=r.at,p=q<16,o=p?B.YV:B.AB,n=r.Q
+q=p?A.d_("Voc\xea errou a sequ\xeancia no est\xe1gio: "+q+"! \n"+n,s,s,s,s,s,s):A.d_("Voc\xea venceu \n"+n,s,s,s,s,s,s)
 return A.wO(A.b([A.a3S(B.AC,new A.aoV(r),A.a3T(s,s,B.cn,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s)),A.a3S(B.AA,new A.aoW(r),A.a3T(s,s,B.cn,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s))],t.p),q,o)},
 $S:47}
 A.aoV.prototype={
@@ -91136,7 +91136,7 @@ A.Hs(!1,new A.aoH(s),r,t.z)},
 a3J(a,b){var s=null,r=b?1:0.5
 return A.aAu(A.hh(s,A.cS(s,s,B.o,a,s,s,s,s,s,B.G5,s,s,s,s),B.a7,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.aot(this,a),s,s,s,s,s,s),B.a3,B.b5,r)},
 M(a){var s,r,q,p,o,n,m,l=this,k=null,j=l.Q
-j=A.Ke(new A.bM(B.jB,new A.dr(B.d4,k,k,j<=15?A.d_("Est\xe1gio: "+j,k,k,k,B.Ay,k,k):B.YZ,k),k),1,k)
+j=A.Ke(new A.bM(B.jB,new A.dr(B.d4,k,k,j<=15?A.d_("Est\xe1gio: "+j,k,k,k,B.Ay,k,k):B.YY,k),k),1,k)
 s=l.x
 r=s?"Memorize a sequ\xeancia":"Sua vez!"
 r=A.Ke(A.eM(A.d_(r,k,k,k,s?B.VU:B.Yy,k,k),k,k),1,k)
@@ -91191,7 +91191,7 @@ A.aoG.prototype={
 $0(){this.a.y=!0},
 $S:0}
 A.aoH.prototype={
-$1(a){var s=null,r=this.a,q=r.Q,p=q<16,o=p?B.YV:B.AB,n=r.z
+$1(a){var s=null,r=this.a,q=r.Q,p=q<16,o=p?B.YU:B.AB,n=r.z
 q=p?A.d_("Voc\xea errou a sequ\xeancia no est\xe1gio: "+q+"! \n"+n,s,s,s,s,s,s):A.d_("Voc\xea finalizou o jogo \n"+n,s,s,s,s,s,s)
 return A.wO(A.b([A.a3S(B.AC,new A.aoA(r),A.a3T(s,s,B.cn,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s)),A.a3S(B.AA,new A.aoB(r),A.a3T(s,s,B.cn,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s))],t.p),q,o)},
 $S:47}
@@ -95454,8 +95454,8 @@ B.Dc=new A.xs(null,null,null,null,null,null,null)
 B.a26=new A.ajy(0,"material")
 B.Dh=new A.xv(null)
 B.Dd=new A.jB(B.z,null,null,B.Dh,null)
-B.YX=new A.df("Nenhum Aluno Registrado",null,null,null,null,null,null,null,null)
-B.De=new A.jB(B.z,null,null,B.YX,null)
+B.YW=new A.df("Nenhum Aluno Registrado",null,null,null,null,null,null,null,null)
+B.De=new A.jB(B.z,null,null,B.YW,null)
 B.Df=new A.xt(null,null,null,null,null,null,null,null,null)
 B.Dg=new A.xu(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.b3=new A.dG(0,B.v)
@@ -97345,11 +97345,11 @@ B.R8=new A.Bo(1333)
 B.kT=new A.Bo(2222)
 B.R9=new A.O1(null,null)
 B.WR=new A.p(!0,null,null,null,null,null,20,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.YS=new A.df("Por favor, gire seu dispositivo para modo paisagem.",null,B.WR,B.ib,null,null,null,null,null)
-B.fq=new A.jB(B.z,null,null,B.YS,null)
+B.Z0=new A.df("Por favor, gire seu dispositivo para o modo paisagem.",null,B.WR,B.ib,null,null,null,null,null)
+B.fq=new A.jB(B.z,null,null,B.Z0,null)
 B.Ra=new A.ly(B.fq,null,B.ne,null,null)
-B.Rb=new A.ly(B.fq,null,B.cf,null,null)
-B.Rc=new A.ly(B.fq,null,B.i,null,null)
+B.Rb=new A.ly(B.fq,null,B.i,null,null)
+B.Rc=new A.ly(B.fq,null,B.cf,null,null)
 B.Rd=new A.ly(B.fq,null,B.n8,null,null)
 B.dD=new A.qk(0,"idle")
 B.Re=new A.qk(1,"transientCallbacks")
@@ -97570,10 +97570,10 @@ B.Tr=new A.kc(3,"hide")
 B.a23=new A.kc(4,"remove")
 B.Ac=new A.kc(5,"timeout")
 B.Ts=new A.uG(null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.YT=new A.df("Senha Incorreta!",null,null,null,null,null,null,null,null)
-B.lj=new A.nL(B.YT,null,null,null,null,null,null,null,null,null,null,null,null,B.jz,null,null,null,B.Y,null)
-B.Z0=new A.df("Registro deletado com sucesso!",null,null,null,null,null,null,null,null)
-B.Tt=new A.nL(B.Z0,null,null,null,null,null,null,null,null,null,null,null,null,B.jz,null,null,null,B.Y,null)
+B.YS=new A.df("Senha Incorreta!",null,null,null,null,null,null,null,null)
+B.lj=new A.nL(B.YS,null,null,null,null,null,null,null,null,null,null,null,null,B.jz,null,null,null,B.Y,null)
+B.Z_=new A.df("Registro deletado com sucesso!",null,null,null,null,null,null,null,null)
+B.Tt=new A.nL(B.Z_,null,null,null,null,null,null,null,null,null,null,null,null,B.jz,null,null,null,B.Y,null)
 B.Ad=new A.OR(0,"permissive")
 B.a24=new A.OR(1,"normal")
 B.i7=new A.uJ(0,"up")
@@ -97963,15 +97963,15 @@ B.Av=new A.p(!0,B.i,null,null,null,null,null,null,null,null,null,null,null,null,
 B.AA=new A.df("Reiniciar",null,B.Av,null,null,null,null,null,null)
 B.lr=new A.df("Digite sua senha",null,null,null,null,null,null,null,null)
 B.ie=new A.df("Cancelar",null,null,null,null,null,null,null,null)
-B.YU=new A.df("Tem certeza que deseja deletar este registro?",null,null,null,null,null,null,null,null)
-B.YV=new A.df("Game Over",null,null,null,null,null,null,null,null)
-B.YW=new A.df("Fim de Jogo",null,null,null,null,null,null,null,null)
+B.YT=new A.df("Tem certeza que deseja deletar este registro?",null,null,null,null,null,null,null,null)
+B.YU=new A.df("Game Over",null,null,null,null,null,null,null,null)
+B.YV=new A.df("Fim de Jogo",null,null,null,null,null,null,null,null)
 B.ls=new A.df("OK",null,null,null,null,null,null,null,null)
 B.AB=new A.df("Parab\xe9ns",null,null,null,null,null,null,null,null)
-B.YY=new A.df("Deletar",null,null,null,null,null,null,null,null)
+B.YX=new A.df("Deletar",null,null,null,null,null,null,null,null)
 B.AC=new A.df("Voltar",null,B.Av,null,null,null,null,null,null)
-B.YZ=new A.df("Fim de Jogo",null,B.Ay,null,null,null,null,null,null)
-B.Z_=new A.df("Confirma\xe7\xe3o",null,null,null,null,null,null,null,null)
+B.YY=new A.df("Fim de Jogo",null,B.Ay,null,null,null,null,null,null)
+B.YZ=new A.df("Confirma\xe7\xe3o",null,null,null,null,null,null,null,null)
 B.a25=new A.air(0,"system")
 B.OW=new A.c(0.05,0)
 B.OY=new A.c(0.133333,0.06)
