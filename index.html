@@ -39,43 +39,34 @@
       position: relative;
     }
     .loader {
-      width: 86px;
-      height: 50px;
-      border-radius: 50px;
-      background:
-        radial-gradient(farthest-side,#0000 calc(100% - 10px),#FFF calc(100% - 10px) 100%,#0000) left,
-        radial-gradient(farthest-side,#0000 calc(100% - 10px),#FFF calc(100% - 10px) 100%,#0000) right;
-      background-size: calc(50% + 5px) 100%;
-      background-repeat: no-repeat;
-      position: relative;
-      animation: flipX 1s infinite linear;
-    }
-    .loader:before {
-      content: "";
-      position: absolute;
-      inset:0;
-      margin:auto;
-      width:10px;
-      height: 10px;
-      border-radius: 50%;
-      background:#FF3D00;
-      transform-origin: -14px 50%;
-      animation: rotate 0.5s infinite linear;
-    }
+    border: 24px solid;
+    border-color: rgba(255, 255, 255, 0.15) rgba(255, 255, 255, 0.25) rgba(255, 255, 255, 0.35) rgba(255, 255, 255, 0.5);
+    border-radius: 50%;
+    display: inline-block;
+    box-sizing: border-box;
+    animation: animloader 1s linear infinite;
+  }
 
-    @keyframes flipX {
-        0%,49.99% { transform:scaleX(1)}
-        50%,100% { transform:scaleX(-1)}
-    }
-
-    @keyframes rotate {
-        100% { transform:rotate(360deg)}
-    }
+@keyframes animloader {
+    0% {
+      border-color: rgba(255, 255, 255, 0.15) rgba(255, 255, 255, 0.25) rgba(255, 255, 255, 0.35) rgba(255, 255, 255, 0.75);
+}
+    33% {
+      border-color: rgba(255, 255, 255, 0.75) rgba(255, 255, 255, 0.15) rgba(255, 255, 255, 0.25) rgba(255, 255, 255, 0.35);
+}
+    66% {
+      border-color: rgba(255, 255, 255, 0.35) rgba(255, 255, 255, 0.75) rgba(255, 255, 255, 0.15) rgba(255, 255, 255, 0.25);
+}
+    100% {
+      border-color: rgba(255, 255, 255, 0.25) rgba(255, 255, 255, 0.35) rgba(255, 255, 255, 0.75) rgba(255, 255, 255, 0.15);
+}
+  }
+  
   
   
   </style>
 </head>
-<body bgcolor="grey">
+<body bgcolor="white">
   <div class="container">
     <div class="loader"></div>
   </div>
