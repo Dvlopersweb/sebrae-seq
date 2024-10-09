@@ -90366,34 +90366,33 @@ r=s.e
 r===$&&A.a()
 r.l()
 s.aK()},
-N(a1){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d=this,c=null,b=t.w,a=A.bd(a1,c,b).w,a0=A.bd(a1,c,b).w.a
-if(a.gjk(0)===B.eN)return B.QB
+N(a0){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e=this,d=null,c=t.w,b=A.bd(a0,d,c).w,a=A.bd(a0,d,c).w.a
+if(b.gjk(0)===B.eN)return B.QB
 s=new A.at1()
-r=d.e
+r=e.e
 r===$&&A.a()
-r=A.jP(new A.nX(r,c),!0,c)
-q=a0.a
-p=a0.b
-o=A.hQ(c,A.de("PULAR >>",c,c,c,A.cH(c,c,c,c,c,c,c,c,c,c,c,A.bd(a1,c,b).w.a.a/80,c,c,c,c,c,!0,c,c,c,c,c,c,c,c),c,c),B.ac,!1,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,new A.asT(a1),c,c,c,c,c,c)
+r=A.jP(new A.nX(r,d),!0,d)
+q=a.a
+p=a.b
+o=A.hQ(d,A.de("PULAR >>",d,d,d,A.cH(d,d,d,d,d,d,d,d,d,d,d,q/80,d,d,d,d,d,!0,d,d,d,d,d,d,d,d),d,d),B.ac,!1,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,new A.asT(a0),d,d,d,d,d,d)
 n=q/4
 m=p/3
 l=q/2
-k=q/19
+k=q/21
 j=q/90
-i=A.cH(c,c,B.m,c,c,c,c,c,c,c,c,j,c,c,c,c,c,!0,c,c,c,c,c,c,c,c)
-h=d.x
-if(h.length===0)h=c
+i=A.cH(d,d,B.m,d,d,d,d,d,d,d,d,j,d,d,d,d,d,!0,d,d,d,d,d,d,d,d)
+h=e.x
+if(h.length===0)h=d
 g=q/110
-i=A.eW(A.Pf(!0,new A.asU(a0),d.f,A.awR(c,B.vv,c,c,c,c,c,c,!0,c,c,c,c,A.cH(c,c,B.m,c,c,c,c,c,c,c,c,g,c,c,c,c,c,!0,c,c,c,c,c,c,c,c),h,c,c,c,c,c,c,c,c,c,c,c,c,c,c,A.cH(c,c,B.m,c,c,c,c,c,c,c,c,j,c,c,c,c,c,!0,c,c,c,c,c,c,c,c),"Nome do Aluno",c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c),40,!1,new A.asV(d),!0,!0,i),k,l)
-h=p/100
-f=A.cH(c,c,B.m,c,c,c,c,c,c,c,c,j,c,c,c,c,c,!0,c,c,c,c,c,c,c,c)
-e=d.y
-if(e.length===0)e=c
-k=A.eW(A.Pf(!1,new A.asW(a0),d.r,A.awR(c,B.vv,c,c,c,c,c,c,!0,c,c,c,c,A.cH(c,c,B.m,c,c,c,c,c,c,c,c,g,c,c,c,c,c,!0,c,c,c,c,c,c,c,c),e,c,c,c,c,c,c,c,c,c,c,c,c,c,c,A.cH(c,c,B.m,c,c,c,c,c,c,c,c,j,c,c,c,c,c,!0,c,c,c,c,c,c,c,c),"Nome da Escola",c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c),40,!1,new A.asX(d),!0,!0,f),k,l)
-l=s.$0()?l:q/2.2
-s=s.$0()?m:p/3.2
+i=A.eW(A.Pf(!0,new A.asU(a),e.f,A.awR(d,B.vv,d,d,d,d,d,d,!0,d,d,d,d,A.cH(d,d,B.m,d,d,d,d,d,d,d,d,g,d,d,d,d,d,!0,d,d,d,d,d,d,d,d),h,d,d,d,d,d,d,d,d,d,d,d,d,d,d,A.cH(d,d,B.m,d,d,d,d,d,d,d,d,j,d,d,d,d,d,!0,d,d,d,d,d,d,d,d),"Nome do Aluno",d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d),40,!1,new A.asV(e),!0,!0,i),k,l)
+h=A.cH(d,d,B.m,d,d,d,d,d,d,d,d,j,d,d,d,d,d,!0,d,d,d,d,d,d,d,d)
+f=e.y
+if(f.length===0)f=d
+k=A.eW(A.Pf(!1,new A.asW(a),e.r,A.awR(d,B.vv,d,d,d,d,d,d,!0,d,d,d,d,A.cH(d,d,B.m,d,d,d,d,d,d,d,d,g,d,d,d,d,d,!0,d,d,d,d,d,d,d,d),f,d,d,d,d,d,d,d,d,d,d,d,d,d,d,A.cH(d,d,B.m,d,d,d,d,d,d,d,d,j,d,d,d,d,d,!0,d,d,d,d,d,d,d,d),"Nome da Escola",d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d),40,!1,new A.asX(e),!0,!0,h),k,l)
+s.$0()
+s=s.$0()?m:p/3.3
 j=t.p
-return A.NW(B.n9,A.j7(B.c9,A.b([r,new A.bL(new A.at(0,0,q/12,p/20),new A.dE(B.mc,c,c,o,c),c),A.rJ(A.b([new A.bL(new A.at(n,m,n,0),i,c),new A.bL(new A.at(n,h,n,h),k,c),new A.bL(B.aG,A.eW(d.ahc(),s,l),c)],j),B.bP,B.b4,B.eI),new A.bL(new A.at(0,A.bd(a1,c,b).w.a.b/16,A.bd(a1,c,b).w.a.a/10,0),new A.dE(B.dW,c,c,A.agN(B.fn,B.ax,B.c0,A.b([A.lI(B.ax,B.oh,"P\xe1gina Inicial",new A.asY(a1),B.b2),A.lI(B.ax,B.oi,"Registros",new A.asZ(d,a1),B.b2),A.lI(B.ax,B.jL,"Tela Cheia",new A.at_(new A.at0()),B.b2)],t.TS),B.c0,B.dE,B.cf,B.ax,0,12,12),c),c)],j),B.X,B.Ad),c,!0)},
+return A.NW(B.n9,A.j7(B.c9,A.b([r,new A.bL(new A.at(0,0,q/12,p/20),new A.dE(B.mc,d,d,o,d),d),A.rJ(A.b([new A.bL(new A.at(n,m,n,0),i,d),new A.bL(new A.at(n,p/100,n,p/120),k,d),new A.bL(B.aG,A.eW(e.ahc(),s,l),d)],j),B.bP,B.b4,B.eI),new A.bL(new A.at(0,A.bd(a0,d,c).w.a.b/16,A.bd(a0,d,c).w.a.a/10,0),new A.dE(B.dW,d,d,A.agN(B.fn,B.ax,B.c0,A.b([A.lI(B.ax,B.oh,"P\xe1gina Inicial",new A.asY(a0),B.b2),A.lI(B.ax,B.oi,"Registros",new A.asZ(e,a0),B.b2),A.lI(B.ax,B.jL,"Tela Cheia",new A.at_(new A.at0()),B.b2)],t.TS),B.c0,B.dE,B.cf,B.ax,0,12,12),d),d)],j),B.X,B.Ad),d,!0)},
 ahc(){var s,r,q,p=this,o=null,n=A.b([],t.p)
 for(s=0;s<27;++s)n.push(p.ahb(B.IJ[s]))
 n.push(p.ahf())
